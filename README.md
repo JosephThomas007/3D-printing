@@ -96,7 +96,8 @@ end
                                                            -------------END OF FUNCTIONS--------------
 ```
 
-																		--INPUT PARAMETERS--												
+--INPUT PARAMETERS--	
+
 m_n=ui_text('Enter Module', "4")*1 --Module   Module should be same for meshing gears
 b=ui_text('Enter Facewidth', "10")*1  --Face width of crown gear and cosine pinion is same
 z_pinion=ui_numberBox("No of Teeth of Pinion Gear", 15.0)*1 --Number of teeth of cosine pinion
